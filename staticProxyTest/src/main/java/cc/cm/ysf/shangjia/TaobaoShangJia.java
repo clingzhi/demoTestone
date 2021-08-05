@@ -11,7 +11,6 @@ public class TaobaoShangJia implements USBSell {
 	 * 声明厂家是谁
 	 */
 	private USBSell usbSellFactoy = new UsbFactory();
-
 	//商家销售
 	@Override
 	public float sell(int count) {
